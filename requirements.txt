@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai-whisper
+python-multipart
+pydub
+yt_dlp
